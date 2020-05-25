@@ -1,1 +1,0 @@
-# alex-fsnd-heroku-sample
